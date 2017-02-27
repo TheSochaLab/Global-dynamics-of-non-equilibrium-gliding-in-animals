@@ -1,0 +1,46 @@
+Common name,Species,Reference,Label,epsilon,Mass (g),Wing loading (N/m^2),Chord length (cm),Area (cm^2),Aspect ratio,Wing span (cm),SVL snake (cm),Notes
+northern flying squirrel,Glaucomys sabrinus ,Bahaman (2013),Mammalian spp.,0.0165789,92.7,59,16.9,154,,,,
+southern flying squirrel,Glaucomys volans,Bishop (2006),Mammalian spp.,0.0189940489099908,78.1,41.88,13.7436854187255,204,1.08,14.8431802522236,,"b from S and AR, c from b and S"
+southern flying squirrel,Glaucomys volans,Bishop (2006),Mammalian spp.,0.0160977388080259,84.0,47.77,13.286148393362,203,1.15,15.2790706523663,,
+sugar glider,Petaurus breviceps,Bishop (2007),Mammalian spp.,0.0257876732673267,73.4,30.3,13.5,,,,,
+colugo,Galeopterus variegatura,"Byrnes (2008), Stafford (2002)",Mammalian spp.,0.02990415,750,60,31,,1.65,,,"AR, Ws from Stafford (2002)"
+colugo,Galeopterus variegatura,"Byrnes (2008), Stafford (2002)",Mammalian spp.,0.038586,1400,60,40,,1.65,,,"AR, Ws from Stafford (2002)"
+Draco,Draco blanfordi,McGuire (2005),Draco spp.,0.0264051886726499,11.3,14.1,6.43261217858574,78.6191489361702,1.9,12.2219631393129,,"AR = b/c = 10^.28 from McGuire (2003); area from Ws, b from A and S, c from S and b"
+Draco,Draco fimbriatus,McGuire (2005),Draco spp.,0.0157869317741628,18.7,23.5,6.40980142526351,78.0625531914894,1.9,12.1786227080007,,
+Draco,Draco formosus,McGuire (2005),Draco spp.,0.0233019029603409,8.8,14.1,5.67661555556949,61.2255319148936,1.9,10.785569555582,,
+Draco,Draco haematopogon,McGuire (2005),Draco spp.,0.0227396419585576,5.7,12.4,4.87174208756395,45.0943548387097,1.9,9.2563099663715,,
+Draco,Draco maculatus,McGuire (2005),Draco spp.,0.0179524676351648,4.0,12.9,4.00122380299636,30.4186046511628,1.9,7.60232522569308,,
+Draco,Draco maximus,McGuire (2005),Draco spp.,0.0256661688734472,15.6,16.0,7.09512434518834,95.6475,1.9,13.4807362558578,,
+Draco,Draco melanopogon,McGuire (2005),Draco spp.,0.0290528525210248,3.8,9.2,4.61801764359143,40.5195652173913,1.9,8.77423352282372,,
+Draco,Draco obscurus,McGuire (2005),Draco spp.,0.0201674012821325,9.1,15.7,5.47051953436447,56.8605095541401,1.9,10.3939871152925,,
+Draco,Draco quinquefasciatus,McGuire (2005),Draco spp.,0.0311638748744656,6.5,10.5,5.65353040276937,60.7285714285714,1.9,10.7417077652618,,
+Draco,Draco sumatranus,McGuire (2005),Draco spp.,0.0181878763874252,6.2,14.8,4.65074673947189,41.0959459459459,1.9,8.83641880499659,,
+Draco,Draco taeniopterus,McGuire (2005),Draco spp.,0.0238910750286965,3.3,10.0,4.12776223305456,32.373,1.9,7.84274824280367,,
+flying fish,Cypselurus hiraii,Park (2010),Fish,0.00293453138624339,60,67.8736162361624,3.44126984126984,86.72,9.0,25.2,,"L1; Area = A1 + A2, table 1"
+flying fish,Cypselurus hiraii,Park (2010),Fish,0.00346840867384615,50,56.1084420041181,3.36230769230769,87.42,9.7,26.0,,L2
+flying fish,Cypselurus hiraii,Park (2010),Fish,0.00254196549425287,60,71.6581446311176,3.14712643678161,82.14,10.7,26.1,,L3
+flying fish,Cypselurus hiraii,Park (2010),Fish,0.00191357536051502,40,71.371407784649,2.35965665236051,54.98,9.9,23.3,,M
+dragonfly,Sympetrum sanguine,Wakeling (1997),Dragonfly,0.103786690821224,0.1379,1.6548,2.96733212341198,8.175,,2.755,,"masses reported incorrectly as g, not mg"
+dragonfly,Sympetrum sanguine,Wakeling (1997),Dragonfly,0.0969050273083136,0.1238,1.67030394718746,2.79653846153846,7.271,,2.6,,
+dragonfly,Sympetrum sanguine,Wakeling (1997),Dragonfly,0.103398418471163,0.1138,1.51434888768313,2.70532110091743,7.372,,2.725,,
+dragonfly,Sympetrum sanguine,Wakeling (1997),Dragonfly,0.129334205476269,0.1150,1.38815060908084,3.10190839694656,8.127,,2.62,,
+dragonfly,Sympetrum sanguine,Wakeling (1997),Dragonfly,0.101691981633265,0.1352,1.6523134421328,2.90307414104883,8.027,,2.765,,
+flying squid,Sthenoteuthis ptrepus,O’Dor (2013),Squid,0.03009,4,11.5411764705882,6,34,,,,chord length is mantle length; area from T. pacific us
+flying snake (average),Chrysopelea paradisi,Socha et al. (2005),Snake,0.00439082068965517,40.5,29,2.2,,,,66.2470588235294,from Socha (2015) data table for figure 3)
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00449061206896552,26.1,23.2,1.8,,,,61.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00452474267100977,62.9,30.7,2.4,,,,83.3,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.0039319972826087,76.3,36.8,2.5,,,,86.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00445223076923077,10.5,18.2,1.4,,,,47,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00404748251748252,37.5,28.6,2.0,,,,69.3,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00372212218649518,35.9,31.1,2.0,,,,68.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00383022794117647,27.4,27.2,1.8,,,,62.8,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00394158064516129,30.8,27.9,1.9,,,,66,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00474418032786885,14.6,18.3,1.5,,,,52.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00365551578947368,27.4,28.5,1.8,,,,63.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00437740336134454,3.0,11.9,0.9,,,,31,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00315245098039216,82.7,45.9,2.5,,,,85.3,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00409762831858407,16.3,22.6,1.6,,,,54.2,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00379534426229508,68.2,36.6,2.4,,,,81.8,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00382383783783784,52.3,33.3,2.2,,,,77.5,
+flying snake,Chrysopelea paradisi,Socha & LaBarbara (2005),Snake,0.00413421428571429,22.5,23.8,1.7,,,,60.5,
+flying snake,Chrysopelea paradisi,Socha et al. (2005),Snake,0.00456393548387097,40.5,27.9,2.2,,,,75,
